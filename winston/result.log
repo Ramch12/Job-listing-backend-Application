@@ -1,0 +1,27 @@
+{"level":"error","message":"Cannot read properties of undefined (reading 'create')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'create')"}
+{"level":"error","message":"employer validation failed: email: Please fill a valid email address"}
+{"level":"error","message":"first_name is not defined"}
+{"level":"error","message":"emp_data.Get is not a function"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'value')"}
+{"level":"error","message":"Invalid select: select only takes 1 argument"}
+{"level":"error","message":"brypt is not defined"}
+{"level":"error","message":"E11000 duplicate key error collection: test.employers index: phone_1 dup key: { phone: 8782928282.0 }"}
+{"level":"error","message":"E11000 duplicate key error collection: test.employers index: phone_1 dup key: { phone: 8782928282.0 }"}
+{"level":"error","message":"emp_data.Get is not a function"}
+{"level":"error","message":"Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/"}
+{"level":"error","message":"E11000 duplicate key error collection: test.otpgs index: _id_ dup key: { _id: ObjectId('6405a1a30a35c56c3dd2ec9e') }"}
+{"level":"error","message":"E11000 duplicate key error collection: test.otpgs index: email_1 dup key: { email: \"aram70802@gmail.com\" }"}
+{"level":"error","message":"E11000 duplicate key error collection: test.otpgs index: email_1 dup key: { email: \"aram70802@gmail.com\" }"}
+{"level":"error","message":"result.verify_otp is not a function"}
+{"level":"error","message":"result.verify_otp is not a function"}
+{"level":"error","message":"result.verify_otp is not a function"}
+{"level":"error","message":"result.verify_otp is not a function"}
+{"level":"error","message":"secretOrPrivateKey must have a value"}
+{"level":"error","message":"Expected \"payload\" to be a plain object."}
+{"level":"error","message":"Expected \"payload\" to be a plain object."}
+{"level":"error","message":"Cannot set headers after they are sent to the client"}
+{"level":"error","message":"Cannot read properties of null (reading 'verify_otp')"}
+{"level":"error","message":"Cannot read properties of null (reading 'verify_otp')"}
+{"level":"error","message":"E11000 duplicate key error collection: test.otpgs index: email_1 dup key: { email: \"aram70802@gmail.com\" }"}
+{"level":"error","message":"id is not defined"}
